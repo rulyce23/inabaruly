@@ -1,0 +1,1 @@
+<img src="/img/inaba.png" width="50" height="50" />
